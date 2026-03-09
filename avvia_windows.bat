@@ -1,8 +1,4 @@
 @echo off
-echo ================================================
-echo    PA Trasparenza - Dashboard Dipendenti Pubblici
-echo ================================================
-echo.
 
 :: Verifica Python
 python --version >nul 2>&1
