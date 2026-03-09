@@ -31,7 +31,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Apri il browser su `http://localhost:3000` e inizia a esplorare.
+Apri il browser su `localhost:5050` e inizia a esplorare.
 
 ---
 
