@@ -28,7 +28,7 @@ cd chigi
 pip install -r requirements.txt
 
 # 3. Avvia
-python main.py
+python app.py
 ```
 
 Apri il browser su `http://localhost:3000` e inizia a esplorare.
