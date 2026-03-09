@@ -14,17 +14,6 @@ Un tool che raccoglie e presenta in chiaro le informazioni **pubbliche ma diffic
 
 Niente giornalismo, niente opinioni. Solo dati ufficiali, resi leggibili.
 
----
-
-## Cosa puoi scoprire
-
-- 🗳️ Come ha votato ogni deputato/senatore (legge per legge)
-- 🏖️ Chi manca più spesso alle sedute
-- 💰 Stipendi, rimborsi e benefit dei parlamentari
-- 🏢 Incarichi aziendali e conflitti di interesse dichiarati
-- 📜 Chi ha presentato (o bloccato) quali leggi
-
----
 
 ## Come si usa
 
@@ -48,9 +37,9 @@ Apri il browser su `http://localhost:3000` e inizia a esplorare.
 
 Tutti i dati provengono da fonti ufficiali:
 
-- [Camera dei Deputati](https://dati.camera.it)
-- [Senato della Repubblica](https://www.senato.it/open-data)
-- [OpenParlamento](https://parlamento17.openpolis.it)
+- [Camera dei Deputati]
+- [Senato della Repubblica]
+- [OpenParlamento]
 
 ---
 
@@ -66,4 +55,6 @@ Hai trovato un dato mancante o vuoi aggiungere una funzionalità?
 
 ## Licenza
 
-MIT — libero da usare, modificare e condividere.
+Distribuito sotto licenza [GPL v3](LICENSE).  
+Puoi fare fork e modificare liberamente, ma le versioni derivate devono
+mantenere la stessa licenza e citare l'autore originale.
