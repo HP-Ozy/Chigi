@@ -10,7 +10,7 @@
 
 ## Cos'è?
 
-Un tool che raccoglie e presenta in chiaro le informazioni **pubbliche ma difficili da trovare** sul Parlamento italiano: voti, assenze, stipendi, conflitti di interesse e molto altro.
+Un tool che raccoglie e presenta in chiaro le informazioni **pubbliche ma difficili da trovare** sul Parlamento italiano: voti, assenze, stipendi e molto altro.
 
 Niente giornalismo, niente opinioni. Solo dati ufficiali, resi leggibili.
 
