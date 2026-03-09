@@ -6,7 +6,7 @@
 
 > Scopri cosa succede davvero nelle stanze del potere italiano — in modo semplice e veloce.
 
-![chigi-demo](https://github.com/user-attachments/assets/5c0416d3-f0c5-49b5-a5c9-99c5e1740e07)
+![Chigi demo](./chigi-demo.gif)
 
 
 ---
