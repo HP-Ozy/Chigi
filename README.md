@@ -6,6 +6,10 @@
 
 > Scopri cosa succede davvero nelle stanze del potere italiano — in modo semplice e veloce.
 
+
+![Chigi demo](./chigi-demo.gif)
+
+
 ---
 
 ## Cos'è?
